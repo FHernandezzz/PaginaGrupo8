@@ -70,10 +70,9 @@ h1 {
   background-color: #662a22;
 }
 
-/* Estilos del contenido */
 .contenedor {
   text-align: center;
-  margin: 4% auto; /* Cambiado a medida relativa */
+  margin: 4% auto; 
   padding: 2%;
   background-color: #ffea7f;
   box-shadow: 0px 0px 10px rgba(163, 8, 8, 0.2);
@@ -87,7 +86,6 @@ h1 {
   font-size: 1em;
 }
 
-/* Estilos del pie de página */
 .footer {
   background-color: #823c30;
   width: 100%;
@@ -98,10 +96,10 @@ h1 {
   font-size: 2vw;
   justify-content: center;
   align-items: center;
-  position: fixed; /* Cambiado a posición fija */
+  position: fixed; 
   bottom: 0;
-  left: 0; /* Ocupa todo el ancho de la ventana */
-  right: 0; /* Ocupa todo el ancho de la ventana */
+  left: 0; 
+  right: 0; 
 }
 
 .container-m {
@@ -154,8 +152,7 @@ h1 {
     padding: 1% 2%;
   }
 
-  /* Aumenta el tamaño del logo solo en pantallas más pequeñas */
   #logo-img {
-    width: 15%; /* Cambiado para que sea más grande en pantallas más pequeñas */
+    width: 15%; 
   }
 }
